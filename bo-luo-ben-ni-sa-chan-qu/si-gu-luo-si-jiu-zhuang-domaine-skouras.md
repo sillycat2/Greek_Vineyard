@@ -12,3 +12,24 @@
   
 　　斯古洛斯酒庄出产多种红葡萄酒、桃红葡萄酒和白葡萄酒，并曾荣获多次奖项。如2007年份的Zoe White酒在2008年《国际葡萄酒与烈酒大赛》中荣获银奖，在《国际葡萄酒挑战赛》中获得铜奖等多项大奖。
 
+{% tabs %}
+{% tab title="基本信息" %}
+所在产区：伯罗奔尼撒
+
+主要葡萄品种：圣乔治\(Saint George\)、荣迪思（Roditis） 
+
+其他葡萄品种：霞多丽（Chardonnay）、维欧尼（Viognier）、赤霞珠\(Cabernet Sauvignon\)、品丽珠（Cabernet Franc）、梅洛（Merlot）和Moscofilero等
+{% endtab %}
+
+{% tab title="联系方式" %}
+ **Domaine Skouras**  
+10th km Argous – Sternas, Μalandreni, Argos 212 00, Greece
+
+电话：（+30）27510-23688  
+传真：（+30）27510-23159
+
+参观时间：周一至周五上午9:00-下午5:00  
+星期六上午10:30-下午6: 00
+{% endtab %}
+{% endtabs %}
+

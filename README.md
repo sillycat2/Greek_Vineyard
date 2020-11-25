@@ -1,6 +1,6 @@
 # 希腊酒庄整理
 
-![alt text](https://s01.flagcounter.com/count/SoO2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/%20)
+> In vino veritas.
 
 希腊是世界上最古老的葡萄酒产区之一，葡萄园遍布希腊各地。有考古证据表明，希腊早在6500年前就有了酿酒工艺，葡萄酒与希腊古老的文明紧紧相连，如果说：“没有酒就没有欧洲的历史和文化，那么作为西方文明摇篮的希腊在酿酒业方面，也是欧洲的先驱。
 
