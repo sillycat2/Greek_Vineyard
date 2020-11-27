@@ -15,6 +15,6 @@
 
 ## 马其顿产区 <a id="macedonia"></a>
 
-* [纸莎草庄园（papargyriou）](macedonia/zhi-suo-cao-zhuang-yuan-papargyriou.md)
+* [纸莎草庄园（Papargyriou Estate）](macedonia/zhi-suo-cao-zhuang-yuan-papargyriou.md)
 * [格罗瓦西里乌酒庄（Ktima Gerovassiliou）](macedonia/ge-luo-wa-xi-li-wu-jiu-zhuang-ktima-gerovassiliou.md)
 
