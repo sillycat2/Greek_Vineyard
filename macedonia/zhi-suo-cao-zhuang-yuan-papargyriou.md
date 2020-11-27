@@ -8,11 +8,21 @@
 
 {% tabs %}
 {% tab title="基本信息" %}
-葡萄品种：Assyrtiko，长相思，Athiri，赤霞珠，Agiorgitiko，Moschoudi
+所在产区：马其顿
+
+主要葡萄品种：Moschoudi，Assyrtiko
+
+其他葡萄品种：长相思，西拉，赤霞珠
 {% endtab %}
 
 {% tab title="联系方式" %}
+Lalioti Corinthias Xilokastro
 
+20200 Greece
+
+电话：+30 27420 41554 / +30 27420 41555
+
+官方网站：[http://www.papargyriou.gr](http://www.papargyriou.gr)
 {% endtab %}
 {% endtabs %}
 
