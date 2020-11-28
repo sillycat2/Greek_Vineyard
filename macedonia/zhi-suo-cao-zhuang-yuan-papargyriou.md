@@ -8,6 +8,8 @@
 
 {% tabs %}
 {% tab title="基本信息" %}
+庄主： 阿里斯蒂迪斯·帕帕吉里欧（Aristidis Papargyriou）
+
 所在产区：马其顿
 
 主要葡萄品种：Moschoudi，Assyrtiko
