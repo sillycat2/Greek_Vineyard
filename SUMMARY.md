@@ -19,5 +19,8 @@
 ## 爱琴群岛产区
 
 * [辛加拉斯酒庄（Ktima Sigalas）](ai-qin-qun-dao-chan-qu/xin-jia-la-si-jiu-zhuang-ktima-sigalas.md)
-* [Untitled](ai-qin-qun-dao-chan-qu/untitled.md)
+
+## 中希腊产区
+
+* [哈兹米哈利斯酒庄（Domaine Hatzimichalis）](zhong-xi-la-chan-qu/ha-ci-mi-ha-li-si-jiu-zhuang-domaine-hatzimichalis.md)
 
